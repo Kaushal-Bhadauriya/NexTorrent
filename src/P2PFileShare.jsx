@@ -292,7 +292,7 @@ const P2PFileShare = () => {
               </div>
               <div>
                 <h1 className="text-3xl font-bold text-white">NexTorrent</h1>
-                <p className="text-neutral-400">Peer-to-peer file distribution</p>
+                <p className="text-neutral-400">The next gen bit-torrent</p>
               </div>
             </div>
             <div className="flex items-center gap-3 bg-neutral-800 px-5 py-3 rounded-lg border border-neutral-700">
@@ -713,3 +713,4 @@ const P2PFileShare = () => {
 };
 
 export default P2PFileShare;
+
